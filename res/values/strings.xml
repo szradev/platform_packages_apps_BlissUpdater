@@ -160,6 +160,6 @@
     <string name="ongoing_channel_title">Ongoing downloads</string>
     <string name="update_failed_channel_title">Update failed</string>
 
-	<string name="changelog_url" translatable="false">https://raw.githubusercontent.com/BlissRoms-Devices/Changelogs/q/Changelog.txt</string>
+	<string name="changelog_url" translatable="false">https://lejbek.pl/changelog.txt</string>
     <string name="changelog_fail">Failed to retrieve changelog or changelog unavailable</string>
 </resources>
